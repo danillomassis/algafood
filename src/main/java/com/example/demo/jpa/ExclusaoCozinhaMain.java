@@ -23,6 +23,6 @@ public class ExclusaoCozinhaMain {
 		Cozinha cozinha = new Cozinha();
 		cozinha.setId(1L);
 		
-		cozinhas.adicionar(cozinha);
+		cozinhas.salvar(cozinha);
 	}
 }
